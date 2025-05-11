@@ -1,0 +1,4 @@
+github.com/pradiptaagus/go-greeting v1.0.0 h1:7zzs0hGeHUQn56+/B7HgS0YSn5cp8MBrg0hh5MwIuZc=
+github.com/pradiptaagus/go-greeting v1.0.0/go.mod h1:qbxT7TWoIdfBGRdQozh/eodzJRXX4CMObg5iUzrkHBs=
+github.com/pradiptaagus/go-greeting/v2 v2.0.0 h1:kJVzKoS4X9Rya8hUWZQDkA8Gs9XqwtvKLBlTPHsoIBI=
+github.com/pradiptaagus/go-greeting/v2 v2.0.0/go.mod h1:JTUtXOlejT5uEpRYD4ZRkVeMdcLj1MMlZMPgUs0RWpU=
